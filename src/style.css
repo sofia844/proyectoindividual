@@ -1,0 +1,45 @@
+#sesion1{
+    background-color:#ffbce5;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 5px 5px;
+}
+#boton1{
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    width: 100px;
+}
+.input{
+    border-radius: 10px 10px 10px 10px;
+}
+
+#maquillaje{
+    background-color: #ffbce5;
+
+}
+#producto{
+    background-color: #ffbce5;
+
+}
+
+#pestaña{
+    background-color: #ffbce5;
+
+}
+
+#colu1{
+
+    background-color: pink;
+}
+
+#colu2{
+
+    background-color: pink;
+}
+
+#colu3{
+
+    background-color: pink;
+}
+
